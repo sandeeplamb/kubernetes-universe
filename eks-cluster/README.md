@@ -1,4 +1,4 @@
-# Gaming EKS Terraform Repo
+# EKS Terraform Repo
 
 # What is Created after running the repo code
 
