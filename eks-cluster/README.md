@@ -13,11 +13,11 @@
 
 These are below things you need to configure to make the EKS-Cluster Up and Running
 
-1. [Provision heptio-authenticator]()
-2. [Provision aws-client]()
-3. [Provision kubectl]()
-4. [Provision configmap.yaml]()
-5. [Provision Dashboard (Optional. Only for Cluster-Admins)]()
+1. [Provision heptio-authenticator](https://github.com/sandeeplamb/kubernetes-universe/tree/master/eks-cluster#1-provision-heptio-authenticator)
+2. [Provision aws-client](https://github.com/sandeeplamb/kubernetes-universe/tree/master/eks-cluster#2-provision-aws-client)
+3. [Provision kubectl](https://github.com/sandeeplamb/kubernetes-universe/tree/master/eks-cluster#3-provision-kubectl)
+4. [Provision configmap.yaml](https://github.com/sandeeplamb/kubernetes-universe/tree/master/eks-cluster#4-provision-configmapyaml)
+5. [Provision Dashboard (Optional. Only for Cluster-Admins)](https://github.com/sandeeplamb/kubernetes-universe/tree/master/eks-cluster#5-provisions-dashboard-optional-only-for-cluster-admins)
 
 ### 1. Provision heptio-authenticator
 
