@@ -7,7 +7,7 @@ I created small Deployments, PoC, Tool usage guide-repo for Kubernetes Cluster.
 01. [Ark](https://github.com/sandeeplamb/kubernetes-ark) - Heptio Disaster Recovery Tool for Kubernetes
 02. [Helm-Charts]() - Helm Charts for Kubernetes
 03. [Kubectl-Deployments]() - Deployment in Kubernetes using Kubectl
-04. [Best-Practices]() - Kubernetes Best Practices
+04. [Best-Practices](https://github.com/sandeeplamb/kubernetes-best-practises) - Kubernetes Best Practices
 05. [Terraform-Deployment]() - Deployment in Kubernetes using terraform kubernetes provider
 06. [God-Uses-Kubernetes](https://github.com/sandeeplamb/God-Uses-Kubernetes) - Fun Read
 07. [EKS-Terraform]() - EKS Cluster using Terraform
