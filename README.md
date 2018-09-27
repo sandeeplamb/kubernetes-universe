@@ -10,5 +10,5 @@ I created small Deployments, PoC, Tool usage guide-repo for Kubernetes Cluster.
 04. [Best-Practices](https://github.com/sandeeplamb/kubernetes-best-practises) - Kubernetes Best Practices
 05. [Terraform-Deployment]() - Deployment in Kubernetes using terraform kubernetes provider
 06. [God-Uses-Kubernetes](https://github.com/sandeeplamb/God-Uses-Kubernetes) - Fun Read
-07. [EKS-Terraform]() - EKS Cluster using Terraform
+07. [EKS-Terraform](https://github.com/sandeeplamb/kubernetes-eks) - EKS Cluster using Terraform
 08. [EFK-Logging-Kubernetes](https://github.com/sandeeplamb/efk-kubernetes) - Elastisearch, FluentD, Kibana Logging Setup for Kubernetes Cluster
