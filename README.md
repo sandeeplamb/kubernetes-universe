@@ -12,3 +12,4 @@ I created small Deployments, PoC, Tool usage guide-repo for Kubernetes Cluster.
 06. [God-Uses-Kubernetes](https://github.com/sandeeplamb/God-Uses-Kubernetes) - Fun Read
 07. [Kubernetes-EKS-Terraform](https://github.com/sandeeplamb/kubernetes-eks) - EKS Cluster using Terraform
 08. [Kubernetes-EFK-Logging](https://github.com/sandeeplamb/kubernetes-efk) - Elastisearch, FluentD, Kibana Logging Setup for Kubernetes Cluster
+09. [Kubernetes-Istio](https://github.com/sandeeplamb/kubernetes-istio) - Istio in EKS
