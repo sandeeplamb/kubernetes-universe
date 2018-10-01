@@ -14,3 +14,4 @@ I created small Deployments, PoC, Tool usage guide-repo for Kubernetes Cluster.
 08. [Kubernetes-EFK-Logging](https://github.com/sandeeplamb/kubernetes-efk) - Elastisearch, FluentD, Kibana Logging Setup for Kubernetes Cluster
 09. [Kubernetes-Istio](https://github.com/sandeeplamb/kubernetes-istio) - Istio in EKS
 10. [Kubernetes-K-Kult](https://github.com/sandeeplamb/kubernetes-k-kult) - Kubernetes sub-project obessession with letter K.
+11. [Kubernetes-KubeSpe](https://github.com/sandeeplamb/KubeSpy) - Kubernetes Tool for observing Kubernetes resources in real time
