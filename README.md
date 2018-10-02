@@ -2,7 +2,7 @@
 
 I created small Deployments, PoC, Tool usage guide-repo for Kubernetes Cluster.
 
-## Fun Read
+## Kubernetes Startup Package
 
 01. [Kubernetes-God-Analogy](https://github.com/sandeeplamb/God-Uses-Kubernetes) - Fun Read
 02. [Kubernetes-Best-Practices](https://github.com/sandeeplamb/kubernetes-best-practises) - Kubernetes Best Practices
