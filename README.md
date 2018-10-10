@@ -26,3 +26,7 @@ I created small Deployments, PoC, Tool usage guide-repo for Kubernetes Cluster.
 ## Kubernetes Service-Mesh
 
 01. [Kubernetes-Istio](https://github.com/sandeeplamb/kubernetes-istio) - Istio in EKS
+
+## Kubernetes Secret-Management
+
+01.[Kubernetes-Secrets/SOPS/Helm/AWS-KMS](https://github.com/sandeeplamb/kubernetes-secrets-management.git)
