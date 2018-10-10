@@ -29,4 +29,4 @@ I created small Deployments, PoC, Tool usage guide-repo for Kubernetes Cluster.
 
 ## Kubernetes Secret-Management
 
-01.[Kubernetes-Secrets/SOPS/Helm/AWS-KMS](https://github.com/sandeeplamb/kubernetes-secrets-management.git)
+01. [Kubernetes-Secrets/SOPS/Helm/AWS-KMS](https://github.com/sandeeplamb/kubernetes-secrets-management.git)
