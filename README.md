@@ -18,6 +18,8 @@ I created small Deployments, PoC, Tool usage guide-repo for Kubernetes Cluster.
 01. [Kubernetes-Helm-Charts](https://github.com/sandeeplamb/kubernetes-helm) - Helm Charts for Kubernetes
 02. [Kubernetes-kubectl-Deployments]() - Deployment in Kubernetes using Kubectl
 03. [Kubernetes-Terraform-Deployment](https://github.com/sandeeplamb/kubernetes-terraform) - Deployment in Kubernetes using terraform kubernetes provider
+04. [Kubernetes-Skaffold]()
+05. [Kubernetes-Kustomize]()
 
 ## 04. Kubernetes Cluster Solutions
 
